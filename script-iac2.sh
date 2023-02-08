@@ -36,7 +36,7 @@ sleep 0.5 #pausa proposital
 echo 
 
 
-# OBSERVAÇÃO: dentro de um script é reomendável usar o APT-GET
+# OBSERVAÇÃO: dentro de um script é recomendável usar o APT-GET
 
 
 
